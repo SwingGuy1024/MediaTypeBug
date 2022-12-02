@@ -1,0 +1,3 @@
+# Project exclude paths
+/ClientMediaType/target/
+/ServerMediaTypeBug/target/
